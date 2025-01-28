@@ -1,5 +1,4 @@
-## Demo
-### [Demo link]("https://anshbhalu.github.io/primera-website/") 
+## [Demo link]("https://anshbhalu.github.io/primera-website/") 
 
 ## **Project Description**
 + **Website** Tital: Primera Nuts
